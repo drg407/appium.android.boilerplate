@@ -12,7 +12,7 @@ git clone https://github.com/drg407/appium.android.boilerplate.git
 
 ## Page Objects
 
-Page Objects are abstractions for the UI elements that you interact with in your tests. You can create getter functions for each element that you need to access. You can create convenient methods like `clickViewsButton()` which allow you to write more concise tests.
+Page Objects are abstractions for the UI elements that you interact with in your tests. You can create `@FindBy` annotations for each element that you need to access. You can create convenient methods like `clickViewsButton()` which allow you to write more concise tests.
 
 ### `src/test/java/appium/android/boilerplate/pages/APIDemos.java`
 
