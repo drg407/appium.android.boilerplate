@@ -1,0 +1,7 @@
+#add global.properties file with personalized properties
+testApp=ApiDemos-debug.apk
+appActivity=io.appium.android.apis.ApiDemos
+appPackage=io.appium.android.apis
+udidName=emulator-5554
+deviceName=emulator-5554
+platformVersion=10
