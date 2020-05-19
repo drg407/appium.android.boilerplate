@@ -1,4 +1,5 @@
 # appium.android.boilerplate
+
 Java Appium Boilerplate for Android
 
 This is a boilerplate project that uses Appium 7.1.0 and Java 8. It includes examples of the PageObject pattern and some practical examples for using Appium to build an automated test suite with TestNG.
@@ -65,8 +66,6 @@ public class FirstTest extends Base {
 
 The tests in this project use Appium's ApiDemos-debug.apk to demonstrate how to interact with some of the most common UI elements you will encounter. I will try to add more from time to time. These tests can be executed with testNG.
 
-
-
 ## CI examples
 
 //TODO
@@ -74,4 +73,3 @@ The tests in this project use Appium's ApiDemos-debug.apk to demonstrate how to 
 ## Reporters
 
 //TODO
-
