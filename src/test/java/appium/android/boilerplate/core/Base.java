@@ -46,7 +46,7 @@ public class Base {
         // Non-platform specific capabilities
         dc.setCapability("eventTimings", true);
         dc.setCapability("newCommandTimeout", 30);
-        dc.setCapability("noReset", true);
+        dc.setCapability("noReset", false);
         dc.setCapability("fullReset", false);
 
         driver = new AppiumDriver<>(new URL("http://0.0.0.0:4723/wd/hub"), dc);
