@@ -66,6 +66,14 @@ public class FirstTest extends Base {
 
 The tests in this project use Appium's ApiDemos-debug.apk to demonstrate how to interact with some of the most common UI elements you will encounter. I will try to add more from time to time. These tests can be executed with testNG.
 
+## Programmatically start Android AVD
+
+//TODO
+
+## Programmatically start appium server
+
+//TODO
+
 ## CI examples
 
 //TODO
